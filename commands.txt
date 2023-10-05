@@ -6,3 +6,5 @@ git log
 git status
 git restore
 git --rm cached
+git clone
+git remote -v
