@@ -8,3 +8,6 @@ git restore
 git --rm cached
 git clone
 git remote -v
+git pull
+git push
+git fetch
